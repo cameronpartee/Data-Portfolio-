@@ -1,0 +1,11 @@
+Pain_Point,Short_Label,Frequency_Pct,Rank,Theme_Category,Color_Hex,Sample_Size,Sources
+Product Durability,Durability,32.5,1,Product Quality,#c9637a,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Customer Service,Cust. Service,27.5,2,Service Experience,#d06e7e,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Declining Quality,Qual. Decline,17.5,3,Product Quality,#d47a89,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Tarnishing & Discoloration,Tarnishing,12.5,4,Product Quality,#db8794,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Price vs. Value,Value,12.5,5,Pricing & Perception,#5b9d94,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Design Flaws,Design Flaws,12.5,6,Product Quality,#4a9189,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Sizing & Fit,Sizing & Fit,10.0,7,Product Accuracy,#3a857e,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Delivery & Packaging,Packaging,10.0,8,Fulfillment,#2e7d76,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Appearance vs. Listing,Appearance,10.0,9,Product Accuracy,#24786e,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
+Misleading Materials,Materials,7.5,10,Trust & Transparency,#1a7a6e,100+,"Trustpilot, Reviews.io, ProductReview.com.au, Reddit, BBB"
