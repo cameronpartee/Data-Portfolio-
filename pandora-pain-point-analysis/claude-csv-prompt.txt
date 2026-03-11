@@ -1,0 +1,1 @@
+Create a csv of the data you used to generate the above report. I need to download it and upload it into Power Bi. (add more columns and more rows, be more granular)
