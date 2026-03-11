@@ -1,0 +1,6 @@
+Analyze customer reviews from at least 100 recent reviews of popular Pandora jewelry products (such as charms, bracelets, rings, necklaces, and earrings).
+Identify the top 8–10 pain points customers mention most frequently. For each pain point, include:
+The specific issue (e.g., product quality, sizing, delivery, customer service, etc.)
+How frequently it appears in reviews (percentage or frequency)
+1–2 example quotes from actual customers illustrating the issue
+Organize the findings as a clear, structured summary that highlights common themes and potential areas for product or service improvement.
