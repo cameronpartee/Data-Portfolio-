@@ -1,4 +1,4 @@
-## Customer Sentiment Analysis — Pandora Jewelry
+## Customer Sentiment Analysis — Jewelry
 
 <img width="762" height="440" alt="Screenshot 2026-03-17 at 3 18 46 PM" src="https://github.com/user-attachments/assets/2c0271e0-adba-4653-a087-09919c63b4c6" />
 
