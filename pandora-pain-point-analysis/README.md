@@ -1,5 +1,7 @@
 ## Customer Sentiment Analysis — Pandora Jewelry
 
+<img width="1148" height="579" alt="pain-point-analysis-1" src="https://github.com/user-attachments/assets/e598e789-a760-451f-bc40-fca3f6dc2856" />
+
 **Findings & Insights**  
 - **Product Durability (32.5%)**: Primary driver of dissatisfaction; issues include clasp breakage, tarnishing, and stone loss  
 - **Customer Service (27.5%)**: Warranty denials, refund friction, and lack of responsiveness contribute to churn  
@@ -30,7 +32,6 @@
 
   Supports data-driven decision-making to reduce churn, improve customer experience, and strengthen brand perception.
 
-<img width="1148" height="579" alt="pain-point-analysis-1" src="https://github.com/user-attachments/assets/e598e789-a760-451f-bc40-fca3f6dc2856" />
 
 
 
